@@ -1,1 +1,1 @@
-# Brain_Tumor_Detection_CNN_VGG16
+This model uses VGG16 as a base model to detect brain tumors. The model has an accuracy of around 96%.
